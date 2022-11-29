@@ -6,7 +6,7 @@
 
 📫 How to reach me through this account or at Logonpierce@icloud.com
 
-🔥 I know HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, MySQL, Handlebars, OOP, ORM, MVC, MongoDB, and React
+🔥 I know HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, MySQL, Handlebars, OOP, ORM, MVC, MongoDB, Java, AWS, Python, C#, and React
 
 Resume https://docs.google.com/document/d/1aF_AZ-xgb3d65hUhennkFJ8dhGB00rLD6KxtBA-EzYE/
 
